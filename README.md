@@ -2,6 +2,11 @@
 
 
 ## Commands For terminal(Ubuntu)
-Update
-```sudo apt-get update
+System update.
+```
+sudo apt-get update
+```
+Clear terminal screen.
+```
+ctrl + l
 ```
