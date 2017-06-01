@@ -14,3 +14,5 @@ Present working directory
 ```
 pwd
 ```
+
+Trying to learn git.
