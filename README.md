@@ -10,3 +10,7 @@ Clear terminal screen.
 ```
 ctrl + l
 ```
+Present working directory
+```
+pwd
+```
