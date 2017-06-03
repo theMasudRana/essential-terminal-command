@@ -35,12 +35,12 @@ git status
 Add all files to git
 ```
 git add -A
-//You can use just a "." instead of "-A"
+<!-- You can use just a "." instead of "-A" -->
 ```
 Use this for a git commit 
 ```
 git commit -m 'Additional comment'
-//Don't forget to add comment. If you do then a window will came that you can't just normally exit. For exit type "Esc" key once then :wq 
+<!-- Don't forget to add comment. If you do then a window will came that you can't just normally exit. For exit type "Esc" key once then :wq  -->
 ```
 Push command
 ```
