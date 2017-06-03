@@ -14,5 +14,12 @@ Present working directory
 ```
 pwd
 ```
-
+Creating a folder
+```
+mkdir FolderName
+```
+Creating a file
+```
+touch FileName
+```
 Trying to learn git.
