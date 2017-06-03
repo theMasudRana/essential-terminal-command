@@ -1,7 +1,7 @@
 # essential-terminal-command
 
 
-## Commands For terminal(Ubuntu)
+## Commands for terminal(Ubuntu)
 System update.
 ```
 sudo apt-get update
@@ -22,4 +22,14 @@ Creating a file
 ```
 touch FileName
 ```
+
+## Git commands
+Initialize git.
+```
+git init
+```
+
+
+
+
 Trying to learn git.
