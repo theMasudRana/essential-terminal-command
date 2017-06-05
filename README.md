@@ -18,6 +18,10 @@ Creating a folder
 ```
 mkdir FolderName
 ```
+removes a folder
+```
+rmdir FolderName
+```
 Creating a file
 ```
 touch FileName
