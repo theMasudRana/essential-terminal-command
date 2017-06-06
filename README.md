@@ -28,6 +28,22 @@ touch FileName
 ```
 
 ## Git commands
+Configure git
+```
+git config
+```
+Configure git user
+```
+git config --global user.name "Your Name"
+```
+Configure git user email address
+```
+git config --global user.email "Your Email"
+```
+Git clone
+```
+git clone RepositoryAddress
+```
 Initialize git.
 ```
 git init
@@ -49,6 +65,10 @@ git commit -m 'Additional comment'
 Push command
 ```
 git push -u origin master
+```
+Pull command
+```
+git pull -u origin master
 ```
 
 
