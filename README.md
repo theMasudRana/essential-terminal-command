@@ -28,10 +28,6 @@ touch FileName
 ```
 
 ## Git commands
-Configure git
-```
-git config
-```
 Configure git user
 ```
 git config --global user.name "Your Name"
