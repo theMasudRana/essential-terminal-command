@@ -76,7 +76,7 @@ sudo apt-get install -y nodejs
 
 Trying to learn git.
 
-#Windows
+# Windows
 Clear Screen
 ```
 cls
