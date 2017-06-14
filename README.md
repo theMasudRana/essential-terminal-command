@@ -74,6 +74,46 @@ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-
-
 Trying to learn git.
+
+#Windows
+Clear Screen
+```
+cls
+```
+Add directory list
+```
+dir
+```
+Add directory list
+```
+dir /a
+```
+List simile files
+```
+dir *.png
+```
+Get Help 
+```
+command /?
+```
+Delete a folder with all files
+```
+rmdir /s folderName
+```
+Get all drive name
+```
+wmic logicaldisk get name
+```
+Change derive
+```
+D:
+```
+Change color
+```
+color /?
+```
+File attribute
+```
+attrib /?
+```
