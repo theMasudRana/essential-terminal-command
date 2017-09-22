@@ -66,6 +66,10 @@ Pull command
 ```
 git pull -u origin master
 ```
+Git Repository info
+```
+git remote show origin
+```
 
 
 # Install Node Js
