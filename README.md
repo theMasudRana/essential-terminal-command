@@ -70,6 +70,10 @@ Git Repository info
 ```
 git remote show origin
 ```
+Git log command
+```
+git log
+```
 
 
 # Install Node Js
